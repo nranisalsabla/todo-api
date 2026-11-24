@@ -2,7 +2,7 @@
   "name": "todo-api",
   "version": "1.0.0",
   "description": "Todo List API — boilerplate backend Node.js, Express, dan MongoDB",
-  "homepage": "https://github.com/username-kamu/todo-api#readme",
+  "homepage": "https://github.com/nranisalsabla/todo-api#readme",
   "main": "src/server.js",
   "scripts": {
     "start": "node src/server.js",
